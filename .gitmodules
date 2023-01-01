@@ -1,6 +1,0 @@
-[submodule "Rust/The_Lab"]
-	path = Rust/The_Lab
-	url = https://github.com/ericuxnyc/The_Lab
-[submodule "GO"]
-	path = GO
-	url = https://github.com/ericuxnyc/The_Lab/GO
